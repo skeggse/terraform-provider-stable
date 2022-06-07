@@ -14,7 +14,7 @@ require (
 	github.com/hashicorp/terraform-plugin-docs v0.3.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.6.1
 	github.com/posener/complete v1.2.1 // indirect
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.2
 	github.com/zclconf/go-cty v1.8.3 // indirect
 	golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf // indirect
 	golang.org/x/tools v0.0.0-20201028111035-eafbe7b904eb // indirect
